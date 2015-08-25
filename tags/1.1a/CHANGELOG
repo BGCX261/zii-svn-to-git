@@ -1,0 +1,15 @@
+
+                   Zii Extension Library for Yii Change Log
+                   ========================================
+
+
+Version 1.1.0 to be released
+----------------------------
+- New: Added CTimestampBehavior to automatically set timestamps in AR (Jonah)
+- New: Added CBaseMenu and CListMenu to aid in creating menus (Jonah)
+- New: Added CJuiWidget (sebas, Qiang)
+- New: Added CJuiInputWidget (sebas, Qiang)
+- New: Added CJuiSlider (sebas, Qiang)
+- New: Added CJuiAccordion (sebas, Qiang)
+- New: Added CJuiProgressBar (sebas, Qiang)
+- New: Added CJuiTabs (sebas, Qiang)
